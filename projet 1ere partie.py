@@ -1,0 +1,5 @@
+nom=input()
+prenom=input()
+login=input()
+mail=input()
+motDePasse=input()
